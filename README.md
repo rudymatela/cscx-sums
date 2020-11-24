@@ -46,9 +46,14 @@ Dates of each version:
 * CScx Volume 1 v0.0.2, 2020-10-13, 132p
 
 
-These have been uploaded to GitHub, GitLab and BitBucket on:
+These have been uploaded to [GitHub], [GitLab] and [BitBucket] on:
 
 * 2020-11-24
 
 
 -- Copyright © 2020  Rudy Matela
+
+
+[GitHub]: https://github.com/rudymatela/cscx-sums
+[GitLab]: https://gitlab.com/rudymatela/cscx-sums
+[BitBucket]: https://bitbucket.com/rudymatela/cscx-sums
